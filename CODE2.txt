@@ -1,0 +1,15 @@
+int x;  
+void f(int m) 
+	{  
+    float x, y;  
+	{  
+	            int i, j;  
+	}
+	{ 
+	            int u, v;  
+	}
+	}  
+int g (int n)  
+	{  
+	      bool t; 	
+	}  

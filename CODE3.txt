@@ -1,0 +1,14 @@
+int a,b;
+    
+int g (int n)  
+	{  
+
+	return n*n ;
+	} 
+ 
+void main()
+	{  
+	int x ;
+	scantf('%d',&d);
+        printf('Hello world %d', g(x));
+	}  

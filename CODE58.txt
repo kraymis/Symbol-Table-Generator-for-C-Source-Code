@@ -1,0 +1,19 @@
+int a,b;
+    
+int g (int n)  
+{
+}
+void f()
+{
+}
+
+int x,y;
+int y;
+float x;
+
+int kraymis(float moe)
+{
+{
+int m;
+}
+}
